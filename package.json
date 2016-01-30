@@ -1,0 +1,25 @@
+{
+  "name": "feedsync",
+  "version": "0.0.0",
+  "description": "online feed synchronisation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/net-shell/feedsync"
+  },
+  "keywords": [
+    "social",
+    "sync"
+  ],
+  "author": "ash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/net-shell/feedsync/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
